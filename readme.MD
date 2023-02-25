@@ -3,7 +3,7 @@
 In this lab you will create small Java applications by using as reference an UML class diagram. Please consider following general notes before start implementing:
 - toString() method when required will return a string like *ClassName{attributeName1=attributeValue1,...,attributeNamen=attributeValuen}*.
 - Do not reuse (import) the same class in multiple exercises. **Each exercise is standalone and should be resolved in its package.**
-- Create any additional constructors, getters and setters needed by your unit tests.
+- Create any additional constructors, getters and setters needed by your [unit] tests.
 
 ## Exercise 0
 
@@ -78,7 +78,7 @@ We also want a leak detection subsystem.
 3. Create a minimal unit test for testing the new behavior.
 
 ## Exercise 6 
-![Exercise 5 image](docs/ex6.jpg)
+![Exercise 6 image](docs/ex6.jpg)
 
 Modify exercise 5 and add pH monitoring/control.
 Determine if it's possible to change the water pH without killing the fish.
