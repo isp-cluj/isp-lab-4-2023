@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>aut.isp</groupId>
-    <artifactId>template-isp-lab</artifactId>
+    <artifactId>isp-lab-4</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>TemplateLab</name>
+    <name>isp-lab-4</name>
 
     <description>Example of super pom for Java application development for software engineering classes.</description>
 
