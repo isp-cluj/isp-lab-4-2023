@@ -35,7 +35,7 @@ the number of meals by 1, and will also display a proper message into the consol
 
 1. Create Java class based on the diagram above. 
 2. Instantiate and test created class in the provided Exercise 2 main method.
-3. Create a minimal unit test for testing the behavior of the created class.
+3. Create minimal unit tests for the behavior of the created classes.
 
 ## Exercise 3 
 ![Exercise 3 image](docs/ex3.jpg)
@@ -47,7 +47,7 @@ e.g. 2.30 or 14.50 (ignore validation errors for now).
 
 1. Create Java classes based on the diagram above. 
 2. Instantiate and test created classes in the provided Exercise 3 main method.
-3. Create a minimal unit test for testing the behavior of the created class.
+3. Create minimal unit tests for the behavior of the created classes.
 
 
 ## Exercise 4
@@ -61,7 +61,7 @@ But if the plant don't get enough light they will die. Keep the lights on anywhe
    The docs directory contains the StarUML model. You can use it to modify ex3 diagram. Export it as ex4.jpg and add the image to docs.
 2. Create Java classes based on your new diagram.
 3. Instantiate and test created classes in the provided Exercise 4 main method.
-4. Create a minimal unit test for testing the new behavior.
+4. Create minimal unit tests for the new behavior.
 
 ## Exercise 5 
 ![Exercise 5 image](docs/ex5.jpg)
@@ -75,7 +75,7 @@ We also want a leak detection subsystem.
    - the controller checks the temperature; if it's below the preset value it turns on the heater;
    if the temperature equals the preset value, it turns the heater off.
 2. Instantiate and test created classes in the provided Exercise 5 main method.
-3. Create a minimal unit test for testing the new behavior.
+3. Create minimal unit tests for the new behavior.
 
 ## Exercise 6 
 ![Exercise 6 image](docs/ex6.jpg)
