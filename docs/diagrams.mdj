@@ -2384,7 +2384,7 @@
 											"top": 394,
 											"width": 122.103515625,
 											"height": 13,
-											"text": "+model: String",
+											"text": "-model: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -4610,6 +4610,7 @@
 								"$ref": "AAAAAAGGiNBsdJAb52E="
 							},
 							"name": "model",
+							"visibility": "private",
 							"type": "String"
 						}
 					],
