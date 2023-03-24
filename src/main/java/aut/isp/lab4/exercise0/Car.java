@@ -45,7 +45,7 @@ public class Car {
     public void stopCar(){
         System.out.println("Stopping car...");
         engine.stopEngine();
-        carAlarm.setActive(false);
+        carAlarm.setActive(true);
     }
 
     @Override
