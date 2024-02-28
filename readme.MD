@@ -51,7 +51,6 @@ e.g. 2.30 or 14.50 (ignore validation errors for now).
 
 
 ## Exercise 4
-![Exercise 4 image](docs/ex4.jpg)
 
 Extend exercise 3 and implement the aquarium's lights control.
 Algae can be a real problem in any aquarium, and to much light time will boost their growth.
@@ -80,7 +79,6 @@ We also want a leak detection subsystem.
 3. Create minimal unit tests for the new behavior.
 
 ## Exercise 6 
-![Exercise 6 image](docs/ex6.jpg)
 
 Modify exercise 5 and add pH monitoring/control.
 Determine if it's possible to change the water pH without killing the fish.
