@@ -57,6 +57,7 @@ Extend exercise 3 and implement the aquarium's lights control.
 Algae can be a real problem in any aquarium, and to much light time will boost their growth.
 But if the plant don't get enough light they will die. Keep the lights on anywhere between 6 to 8 hours per day. 
 You need to add 2 new attributes for: lightOnTime and lightsOffTime.
+Also add a new class called *Lights* that has a boolean attribute *isOn* and two methods *turnOn()* and *turnOff()*.
 Like in the case of the previous exercise, turning the lights on/off is determined when setting the current time in the controller.
 
 1. Update the class diagram from exercise 3 with the newly added subsystem.
